@@ -1,0 +1,11 @@
+Software,Creator,Initial_release,Software_license,Open_source,Platform,Written_in,Interface,OpenMP_support,OpenCL_support,CUDA_support,ROCm_support,Automatic_differentiation,Has_pretrained_models,Recurrent_nets,Convolutional_nets,RBM/DBNs,Parallel_execution(multi_node),Actively_developed
+BigDL,Jason Dai (Intel),2016,Apache 2.0,Yes,Apache Spark,Scala,"Scala, Python",,,No,No,,Yes,Yes,Yes,,,Yes
+Caffe,Berkeley Vision and Learning Center,2013,BSD,Yes,"Linux, macOS, Windows[3]",C++,"Python, MATLAB, C++",Yes,Under development[4],Yes,No,Yes,Yes[5],Yes,Yes,No,?,No[6]
+Chainer,Preferred Networks,2015,BSD,Yes,"Linux, macOS",Python,Python,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No[7]
+Deeplearning4j,Skymind engineering team; Deeplearning4j community; originally Adam Gibson,2014,Apache 2.0,Yes,"Linux, macOS, Windows, Android (Cross-platform)","C++, Java","Java, Scala, Clojure, Python (Keras), Kotlin",Yes,No[8],Yes[9][10],No,Computational Graph,Yes[11],Yes,Yes,Yes,Yes[12],Yes
+DeepSpeed,Microsoft,2019,Apache 2.0,Yes,"Linux, macOS, Windows","Python, C++, CUDA",Python,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Dlib,Davis King,2002,Boost Software License,Yes,Cross-platform,C++,"C++, Python",Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+Fastai,fast.ai,2018,Apache 2.0,Yes,"Linux, macOS, Windows","Python, CUDA",Python,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Flux,Mike Innes,2017,MIT,Yes,"Linux, macOS, Windows (Cross-platform)",Julia,Julia,,,Yes,No,Yes,Yes[13],Yes,Yes,No,Yes,Yes
+Horovod,Uber Technologies,2017,Apache 2.0,Yes,"Linux, macOS, Windows","Python, C++, CUDA",Python,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Intel Data Analytics Acceleration Library,Intel,2015,Apache 2.0,Yes,"Linux, macOS, Windows on Intel CPU[14]","C++, Python, Java","C++, Python, Java[14]",Yes,No,No,No,Yes,No,,Yes,,Yes,Yes
